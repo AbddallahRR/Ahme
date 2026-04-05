@@ -28,6 +28,9 @@
 - file
 
 ## Uso
+1. Hacer el archivo ejecutable `chmod +x ahme.sh`
+2. Ejecutarlo: `./ahme.sh`
+
 | Comando | Descripción |
 |---------|-------------|
 | `ahme -d` | Muestra la base de datos y permite seleccionar un anime para continuar descargando desde el último capítulo+1. |
